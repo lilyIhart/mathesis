@@ -20,4 +20,4 @@ nav:
 - label: My new essay
   icon: fas fa-file-code
   action: load-page
-  path: /sample-essay
+  path: /RSCTransactions-/
