@@ -16,7 +16,7 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
-<param ve-image title="Roasted Coffee Beans" url="https://imgur.com/a/9udpe7K">
+<param ve-image title="Roasted Coffee Beans" url="https://github.com/lilyIhart/mathesis/blob/6ab196d4cf3cf51265f47d88bfd5601c909c2e79/Times%20_Indian_%20appears%20in%20RSC%20Transactions.png">
 <param ve-image title="Roasted Coffee Beans" url="https://ibb.co/Ms89mdf">
 
 
