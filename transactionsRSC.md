@@ -43,8 +43,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-image manifest="https://github.com/lilyIhart/mathesis/blob/6ab196d4cf3cf51265f47d88bfd5601c909c2e79/Times%20_Indian_%20appears%20in%20RSC%20Transactions.png">
 <param ve-map center="Q36600" zoom="11">
 
 # References
