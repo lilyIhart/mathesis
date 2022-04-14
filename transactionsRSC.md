@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring" 
-       banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOVrF7c2gpnlC_xpGPJI-VZA4ooe2mmIUlWXIJPPcXsvFc7hSknN4IChHheI8nLbDjtM&usqp=CAU" 
+       banner="https://ia802802.us.archive.org/BookReader/BookReaderImages.php?id=proceedingstrans15roya&itemPath=%2F20%2Fitems%2Fproceedingstrans15roya&server=ia802802.us.archive.org&page=n6_w393" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -16,8 +16,8 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
-<param ve-image title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Royal_Society_of_Canada_head_office.jpg">
-<param ve-image title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg">
+<param ve-image title="Roasted Coffee Beans" url="https://ibb.co/thp59Zn">
+<param ve-image title="Roasted Coffee Beans" url="https://ibb.co/Ms89mdf">
 
 
 
