@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring" 
+       title="Royal Society of Canada Keyword Analysis" 
        banner="https://ia802802.us.archive.org/BookReader/BookReaderImages.php?id=proceedingstrans15roya&itemPath=%2F20%2Fitems%2Fproceedingstrans15roya&server=ia802802.us.archive.org&page=n6_w393" 
        layout="vertical">
 
@@ -15,6 +15,7 @@
 
 # Sample visual essay
 
+Text
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image title="Roasted Coffee Beans" url="https://github.com/lilyIhart/mathesis/blob/6ab196d4cf3cf51265f47d88bfd5601c909c2e79/Times%20_Indian_%20appears%20in%20RSC%20Transactions.png">
 <param ve-image title="Roasted Coffee Beans" url="https://ibb.co/Ms89mdf">
@@ -26,7 +27,8 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+
+The word “Indian” appears 1717 times in the pages of the Transaction of the Royal Society of Canada, stretching from 1881 to 1922. The term “Moundbuilders” appears 70 times.  Simply “mounds” appeared 117 times. Without Indigenous knowledge, the anthropological sections would have been decisively smaller.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
