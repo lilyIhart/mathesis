@@ -31,7 +31,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Royal_Society_of_Canada_head_office.jpg">
+       url="https://i.imgur.com/Vr5AxEQ.png">
 
 ## Map
 
