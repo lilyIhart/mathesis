@@ -1,0 +1,18 @@
+title: My new Juncture site
+tagline: With a custom tagline
+banner: https://upload.wikimedia.org/wikipedia/commons/c/c4/Himalayas_in_the_morning_light.jpg
+#favicon: <favicon url>
+#logo: <logo url>
+
+# When using a custom domain these fields must be updated to match
+# the Github account and repository name
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
+
+######################################################
+# Defines options shown in the header navigation menu
+######################################################
+nav:
+- label: View page source
+  icon: fas fa-file-code
+  action: view-markdown
