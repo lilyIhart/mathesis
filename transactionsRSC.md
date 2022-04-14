@@ -16,6 +16,9 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+<param ve-image title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Royal_Society_of_Canada_head_office.jpg">
+
+
  
 # Basic usage
 
